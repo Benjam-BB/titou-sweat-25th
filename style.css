@@ -1,0 +1,32 @@
+body {
+  background-image: url('https://www.eightface.com/files/wallpaper/2004.02.09.ef.gradient.fun.jpg');
+  justify-content: center;
+  }
+
+  img {
+      border-radius: 25px;
+      margin: 30px;
+  }
+
+  img:hoover{
+    transform: scale(1.5);
+  }
+
+  h1{
+    font-size: 50px;
+    font-family: 'Gloria Hallelujah', cursive;
+    color: blue;
+  }
+
+  .btn{
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  .btn:hoover{
+    transform: scale(1.5) !important;
+  }
+
+  p{
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 18px;
+  }
